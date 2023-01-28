@@ -1,0 +1,3 @@
+Name of student is :shd
+Roll Number of student is :8
+CGPA of student is :8.500000
