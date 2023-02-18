@@ -4,7 +4,7 @@ float CircleArea(float redius);
 float TrangleArea(float base, float height);
 float RectangleArea(float length, float width);
 
-float main()
+int main()
 {
     float redius;
     printf("Enter radius for Circle Area :");
